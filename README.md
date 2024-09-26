@@ -26,6 +26,11 @@ Lowercase letters (a-z)
 Numbers (0-9)
 Special characters (!, @, #, $, etc.)
 
+Images
+
+![Screenshot Capture - 2024-09-26 - 11-06-12](https://github.com/user-attachments/assets/2f9f8661-8765-41ea-bb05-5fa2c080a888)
+
+
 Limitations
 
 Character Limitations: The script only includes the specified character sets. If additional character sets are needed, the script would require modification.
@@ -35,3 +40,5 @@ Future Development
 
 Additional Character Sets: Adding support for additional character sets, such as punctuation marks or international characters.
 Password Strength Analysis: Implementing a password strength analysis feature to provide users with a rating of the generated password's strength.
+
+
